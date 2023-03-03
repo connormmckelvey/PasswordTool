@@ -2,7 +2,9 @@
 Password Tool - Created By Krazy Studios
 -------------------------------------------
 
-free to use for personal use. DO NOT MODIFIY line_log.txt or the program will not work properly
+DOWNLOAD THE ZIP, AND PIN .EXE FILE TO USE
+
+Free to use for personal use. DO NOT MODIFIY any files/folders in .zip or the program will not work properly
 
 Enjoy! 
 
@@ -18,7 +20,7 @@ Twitter (DM us): https://twitter.com/KrazyStudios9
 ==========================
 
 -------------------------------------------
-ADVANCED: if you commonly add items manully to passwords.xlsx then to avoid the program rewriting over your 
+ADVANCED: if you commonLy add items manully to passwords.xlsx then to avoid the program rewriting over your 
 information copy number of the next line you want the program to write on to line_log.txt as shown in the example below:
 ================================================================
                       passwords.xlsx
